@@ -6,4 +6,8 @@ this is test5.
 this is test6.
 this is test7.
 this is dev1.
+<<<<<<< HEAD
 this is test8.
+=======
+this is feature1.
+>>>>>>> feature1
